@@ -76,6 +76,12 @@
   - 12.2 Qwen vs DeepSeek
   - 12.3 各维度综合评估
 
+- [第13章 技术报告原文与解读](chapters/11-tech-report-analysis.md)
+  - 13.1 Qwen-1 技术报告解读
+  - 13.2 Qwen-2 技术报告解读（GQA架构）
+  - 13.3 Qwen-2.5 技术报告解读（Math/Coder突破）
+  - 13.4 Qwen-Scope 技术报告解读（可解释性工具）
+
 ## 附录
 
 - [附录A：完整版本演进表](appendix/version-table.md)
